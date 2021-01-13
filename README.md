@@ -1,0 +1,2 @@
+# nuxt-sanctum
+template
